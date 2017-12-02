@@ -1,1 +1,1 @@
-worker: runbot.bat
+echo "worker: runbot.bat" > procfile
