@@ -1,1 +1,1 @@
-echo "worker: runbot.bat" > procfile
+echo "web: python run.py" > Procfile
